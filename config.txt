@@ -2,5 +2,4 @@
         autocrlf = true
         excludesfile = C:\\Users\\AlfaKraft\\Documents\\gitignore_global.txt
 [user]
-        name = Alfred Kraft
         email = alfaktk2@gmail.com
