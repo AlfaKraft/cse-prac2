@@ -2,4 +2,5 @@
         autocrlf = true
         excludesfile = C:\\Users\\AlfaKraft\\Documents\\gitignore_global.txt
 [user]
+        In Java.gitignore file ".class" is a file containing Java bytecode. Java class file is created by a Java compiler from .java files as a result of successful compilation.
         email = alfaktk2@gmail.com
